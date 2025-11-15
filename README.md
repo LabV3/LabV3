@@ -1,6 +1,6 @@
 <p align="center">
 
-&nbsp; <img src="https://raw.githubusercontent.com/LabV3/README/refs/heads/main/images/Banner.png" alt="Lab V3 Banner" style="border-radius: 10px;">
+&nbsp; <img src="https://raw.githubusercontent.com/LabV3/README/refs/heads/main/images/Banner.png" alt="Lab V3 Banner">
 
 </p>
 
