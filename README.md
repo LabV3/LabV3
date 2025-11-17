@@ -26,6 +26,8 @@ I'm currently working on expanding my coding skills.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
+--
+
 #### 🛠️ Frameworks & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -33,6 +35,8 @@ I'm currently working on expanding my coding skills.
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
+
+--
 
 #### 💡 IDEs & Editors
 <p align="left">
