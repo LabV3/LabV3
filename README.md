@@ -4,7 +4,7 @@
 
 ---
 
-## Hi, I'm Lab V3 👋
+## 👋 Hi, I'm Lab V3
 I'm an aspiring developer with a passion for software and web development.
 
 ---
