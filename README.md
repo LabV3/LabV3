@@ -39,10 +39,3 @@ I'm currently working on expanding my coding skills.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </p>
-
----
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LabV3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lab V3's GitHub Stats">
-</p>
